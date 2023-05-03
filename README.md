@@ -1,4 +1,4 @@
-# OpenStreetMap based names of places of Ukraine
+# OpenStreetMap based names of places in Ukraine
 
 ## Назви населених пунктів України на основі даних OpenStreetMap.org
 
